@@ -1,10 +1,11 @@
 # Advertising-Campaign-Performance-Analytics-2025
 Advertising Campaign  Performance Analytics 2025
 
-Tools: Excel
+## Tools: Excel
 
+## Key findings:
 The analysis revealed a significant number of “unknown” values ​​in key metrics (especially Device Type, Metro/DMA, Profit Margin %, and Media Cost $), which makes it difficult to fully assess. This may indicate problems with tracking or traffic quality.
-#### Key KPIs in general:
+### Key KPIs in general:
 Tracked Impressions: 112 million
 Clicks: 224 thousand
 Ad Spends: $1.6 million
@@ -13,8 +14,9 @@ Average Profit Margin: -65.3%
 
 Despite the large volume of impressions and clicks, the CTR is very low, and the overall margin is negative — the campaigns are unprofitable on average.
 
-#### Comparison of campaigns by margin
-###### Insights: Camp 1 – Leader: Highest volume (19.3 million impressions, 107 thousand clicks, 1.65 million video views), 4.34% 
+### Comparison of campaigns by margin
+### Insights: 
+Campaign 1 – Leader: Highest volume (19.3 million impressions, 107 thousand clicks, 1.65 million video views), 4.34% 
 CTR, 12.31% VCR, 54.83% margin. Campaign performs on video and mobile. • 
 Campaign 2 – Failure: 57.7 million impressions but only 4.8 thousand clicks, 0.23% CTR, -172.13% margin, 34.19% 
 VCR. High CPM ($44.39) and CPC ($249) – budget was wasted with no results. • 
