@@ -25,4 +25,4 @@ VCR. High CPM ($44.39) and CPC ($249) – budget was wasted with no results. •
 ### Trend: Connected TVs have the highest VCR rate—97%—a focus on video drives better audience engagement. Video is key to success: Camp 1, with a high VCR rate (12.3%), has the best margin (54.83%), while Camp 3, with 0% VCR, has the worst (37.9%). It's recommended to use more video formats to increase conversion and reallocate resources to more effective formats.
 
 ### Regional data: Leading regions account for the bulk of ad spend ("unknown," Los Angeles, Detroit), but margins in Charlotte (40.8%) and Charleston (40.5%) are above average. It's recommended to focus on profitable regions. •Many "unknowns" skew the analysis, possibly due to tracking errors or low-quality traffic (bots). •
-Zero values: 0% VCR in Camp3, 0 clicks in many rows - traffic is not converting, possibly due to fraud or incorrect targeting.
+### Zero values: 0% VCR in Camp3, 0 clicks in many rows - traffic is not converting, possibly due to fraud or incorrect targeting.
